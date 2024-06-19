@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "markdown.marp.breaks": "on",
+    "editor.formatOnSave": true,
+    "japanese-proofreading.textlint.ピリオドとカンマの使用（全角）": true,
+    "japanese-proofreading.textlint.ピリオドとカンマの使用（半角）": false,
+    "japanese-proofreading.textlint.全角文字と半角文字の間": false
+  }
+}
