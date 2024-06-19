@@ -1,5 +1,5 @@
 {
-  "name": "eslintandprettier",
+  "name": "ESLintAndPrettier_kuma",
   "version": "1.0.0",
   "description": "--- marp: true # title: ESLint と Prettier ---",
   "main": "sample.js",
